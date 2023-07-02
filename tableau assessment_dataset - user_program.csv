@@ -1,0 +1,301 @@
+user_id,company_id,user_status,product,package,eligibility_date,registration_date,program_close_date,program_close_reason
+1454529,14932,Cancelled,Redeployment,Professional,1/3/2022,,,Ineligible
+1455302,14793,Program Complete,Carreer Development,Professional,1/4/2022,2/14/2022,7/5/2022,found Opportunity
+1455507,14891,Program Complete,Welfare to work,Premier,1/4/2022,2/21/2022,8/20/2022,found Opportunity
+1455858,15060,Program Complete,Outplacement,Essentials,1/5/2022,1/12/2022,6/26/2022,Services Complete
+1456070,15397,Program Complete,Redeployment,Professional,1/6/2022,2/25/2022,6/29/2022,Services Complete
+1456368,15133,Program Complete,Carreer Development,Professional,1/7/2022,2/27/2022,7/28/2022,found Opportunity
+1456770,15133,Program Complete,Carreer Development,Professional,1/7/2022,1/23/2022,7/22/2022,found Opportunity
+1457333,15055,Program Complete,Welfare to work,Essentials Plus,1/8/2022,3/5/2022,8/7/2022,Services Complete
+1457452,15060,Program Complete,Redeployment,Essentials,1/11/2022,2/15/2022,7/25/2022,found Opportunity
+1458016,15324,Program Complete,Carreer Development,Professional,1/11/2022,2/11/2022,6/23/2022,found Opportunity
+1458088,14756,Program Complete,Outplacement,Essentials,1/12/2022,3/5/2022,7/18/2022,Services Complete
+1458518,15337,Program Complete,Redeployment,Professional,1/19/2022,2/2/2022,6/11/2022,found Opportunity
+1458533,14624,Program Complete,Carreer Development,Professional,1/20/2022,3/12/2022,8/6/2022,found Opportunity
+1459241,14580,Cancelled,Outplacement,Professional,1/22/2022,,,Ineligible
+1459255,15107,Program Complete,Welfare to work,Professional,1/25/2022,2/26/2022,7/28/2022,Services Complete
+1459531,15322,Program Complete,Welfare to work,Professional,1/26/2022,3/3/2022,7/25/2022,found Opportunity
+1460006,14999,Program Complete,Redeployment,Professional,1/29/2022,2/18/2022,6/7/2022,found Opportunity
+1460097,14719,Program Complete,Redeployment,Professional,1/31/2022,3/12/2022,6/13/2022,found Opportunity
+1460215,14719,Program Complete,Redeployment,Professional,1/31/2022,2/16/2022,7/12/2022,Services Complete
+1460373,15440,Program Complete,Carreer Development,Blended Redeployment Professional,2/2/2022,3/17/2022,8/2/2022,Services Complete
+1460405,15450,Program Complete,Redeployment,Professional,2/3/2022,3/3/2022,6/7/2022,found Opportunity
+1460867,14891,Program Complete,Outplacement,Professional,2/4/2022,3/12/2022,8/15/2022,found Opportunity
+1461680,15133,Program Complete,Outplacement,Professional,2/5/2022,2/24/2022,7/27/2022,found Opportunity
+1461789,15107,Program Complete,Carreer Development,Professional,2/8/2022,2/25/2022,8/12/2022,Services Complete
+1461970,15176,Program Complete,Welfare to work,Professional,2/10/2022,3/16/2022,6/14/2022,Services Complete
+1462201,15055,Cancelled,Redeployment,Essentials Plus,2/13/2022,,,Ineligible
+1462409,14882,Program Complete,Welfare to work,Essentials,2/13/2022,3/19/2022,8/11/2022,found Opportunity
+1463351,14925,Program Complete,Carreer Development,Professional,2/13/2022,,,Services Complete
+1463639,14999,Program Complete,Redeployment,Professional,2/14/2022,3/20/2022,9/7/2022,Services Complete
+1463698,15060,Program Complete,Outplacement,Professional,2/15/2022,2/17/2022,6/3/2022,found Opportunity
+1463706,15453,Program Complete,Carreer Development,Essentials Plus,2/20/2022,4/21/2022,7/20/2022,found Opportunity
+1464318,14999,Program Complete,Carreer Development,Essentials,2/28/2022,3/17/2022,6/27/2022,found Opportunity
+1464627,14719,Program Complete,Welfare to work,Professional,2/28/2022,4/27/2022,8/24/2022,Services Complete
+1464731,14891,Program Complete,Redeployment,Professional,3/2/2022,4/8/2022,7/26/2022,Services Complete
+1465330,15044,Program Complete,Welfare to work,Professional,3/5/2022,4/1/2022,7/3/2022,found Opportunity
+1465430,15055,Program Complete,Carreer Development,Professional,3/13/2022,4/20/2022,8/28/2022,found Opportunity
+1466552,15055,Cancelled,Carreer Development,Professional,3/15/2022,,,Ineligible
+1467425,15450,Program Complete,Welfare to work,Blended Redeployment Professional,3/17/2022,4/27/2022,8/5/2022,Services Complete
+1467431,14923,Program Complete,Outplacement,Professional,3/17/2022,4/7/2022,7/30/2022,Services Complete
+1468188,15044,Program Complete,Carreer Development,Professional,3/18/2022,5/15/2022,8/30/2022,Services Complete
+1468285,14923,Program Complete,Welfare to work,Professional,3/20/2022,4/19/2022,9/27/2022,Services Complete
+1469125,14593,Program Complete,Carreer Development,Essentials Plus,3/21/2022,4/30/2022,9/26/2022,Services Complete
+1469833,14688,Cancelled,Welfare to work,Professional,3/22/2022,,,Ineligible
+1470530,15324,Program Complete,Redeployment,Professional,3/27/2022,4/28/2022,10/5/2022,found Opportunity
+1470591,14793,Program Complete,Redeployment,Professional,3/28/2022,5/7/2022,8/10/2022,Services Complete
+1470626,15453,Program Complete,Redeployment,Professional,3/28/2022,4/24/2022,8/17/2022,Services Complete
+1471421,15050,Program Complete,Redeployment,Essentials Plus,4/1/2022,5/7/2022,9/12/2022,Services Complete
+1471458,15107,Program Complete,Outplacement,Professional,4/2/2022,5/28/2022,11/18/2022,found Opportunity
+1471693,15050,Program Complete,Redeployment,Essentials,4/3/2022,5/21/2022,9/3/2022,found Opportunity
+1471739,14756,Program Complete,Welfare to work,Professional,4/4/2022,4/28/2022,8/11/2022,Services Complete
+1472620,14999,Program Complete,Welfare to work,Essentials Plus,4/4/2022,5/1/2022,9/1/2022,Services Complete
+1472821,15107,Program Complete,Outplacement,Professional,4/6/2022,4/18/2022,8/3/2022,Services Complete
+1473144,15450,Program Complete,Outplacement,Professional,4/6/2022,4/14/2022,9/17/2022,found Opportunity
+1473598,15050,Program Complete,Carreer Development,Professional,4/8/2022,5/23/2022,9/2/2022,Services Complete
+1473851,14688,Program Complete,Welfare to work,Professional,4/9/2022,5/3/2022,10/18/2022,Services Complete
+1474369,14882,Program Complete,Welfare to work,Professional,4/10/2022,4/12/2022,8/14/2022,found Opportunity
+1474556,14593,Program Complete,Outplacement,Professional,4/10/2022,4/14/2022,10/6/2022,found Opportunity
+1474737,14882,Program Complete,Outplacement,Professional,4/11/2022,5/10/2022,10/22/2022,found Opportunity
+1474892,15322,Program Complete,Welfare to work,Professional,4/12/2022,4/26/2022,9/5/2022,found Opportunity
+1475002,15253,Program Complete,Outplacement,Professional,4/13/2022,4/23/2022,7/31/2022,found Opportunity
+1475738,15133,Program Complete,Carreer Development,Professional,4/14/2022,5/26/2022,8/28/2022,found Opportunity
+1475907,15052,Program Complete,Outplacement,Premier,4/16/2022,5/1/2022,8/12/2022,found Opportunity
+1476279,14882,Cancelled,Redeployment,Professional,4/16/2022,,,Ineligible
+1476301,15397,Program Complete,Carreer Development,Professional,4/20/2022,5/7/2022,10/25/2022,Services Complete
+1476539,15107,Program Complete,Outplacement,Professional,4/20/2022,5/9/2022,9/29/2022,found Opportunity
+1476541,15052,Program Complete,Outplacement,Professional,4/23/2022,5/19/2022,9/21/2022,found Opportunity
+1476681,15052,Program Complete,Outplacement,Essentials Plus,4/24/2022,5/24/2022,10/23/2022,Services Complete
+1477408,14882,Cancelled,Outplacement,Professional,4/24/2022,,,Ineligible
+1477535,14891,Program Complete,Outplacement,Professional,4/25/2022,6/18/2022,12/7/2022,Services Complete
+1478004,15044,Program Complete,Outplacement,Professional,4/25/2022,6/5/2022,10/30/2022,found Opportunity
+1478673,14624,Program Complete,Redeployment,Essentials,4/26/2022,6/24/2022,10/10/2022,Services Complete
+1478701,14923,Program Complete,Welfare to work,Professional,4/28/2022,6/9/2022,11/19/2022,found Opportunity
+1478778,15107,Cancelled,Outplacement,Essentials,4/28/2022,,,Ineligible
+1479587,14756,Program Complete,Welfare to work,Professional,5/1/2022,6/22/2022,11/23/2022,Services Complete
+1479652,14756,Program Complete,Outplacement,Essentials Plus,5/1/2022,6/23/2022,11/4/2022,found Opportunity
+1479851,14580,Program Complete,Welfare to work,Professional,5/2/2022,5/5/2022,8/31/2022,found Opportunity
+1479874,15176,Program Complete,Welfare to work,Professional,5/2/2022,6/9/2022,10/13/2022,found Opportunity
+1479879,15044,Program Complete,Carreer Development,Professional,5/3/2022,6/21/2022,10/1/2022,found Opportunity
+1480181,15254,Program Complete,Redeployment,Professional,5/3/2022,6/25/2022,11/5/2022,found Opportunity
+1480518,14999,Program Complete,Redeployment,Professional,5/6/2022,6/11/2022,10/17/2022,Services Complete
+1480540,15337,Program Complete,Outplacement,Essentials Plus,5/6/2022,6/4/2022,10/9/2022,found Opportunity
+1481281,14932,Program Complete,Outplacement,Premier,5/6/2022,6/24/2022,11/8/2022,Services Complete
+1481695,14756,Program Complete,Carreer Development,Professional,5/8/2022,5/30/2022,11/19/2022,Services Complete
+1481770,15450,Program Complete,Carreer Development,Professional,5/8/2022,5/20/2022,11/3/2022,Services Complete
+1481943,14624,Cancelled,Welfare to work,Essentials,5/9/2022,,,Ineligible
+1481952,14593,Program Complete,Redeployment,Professional,5/10/2022,5/27/2022,11/20/2022,Services Complete
+1481956,15450,Program Complete,Redeployment,Professional,5/10/2022,6/13/2022,9/18/2022,Services Complete
+1482170,15253,Program Complete,Outplacement,Professional,5/11/2022,5/20/2022,9/20/2022,Services Complete
+1482250,15337,Program Complete,Outplacement,Professional,5/13/2022,6/18/2022,12/15/2022,Services Complete
+1482417,15254,Program Complete,Welfare to work,Professional,5/16/2022,5/27/2022,9/15/2022,Services Complete
+1483025,15050,Program Complete,Redeployment,Professional,5/21/2022,5/28/2022,10/1/2022,Services Complete
+1483132,14624,Program Complete,Carreer Development,Professional,5/23/2022,6/29/2022,10/28/2022,found Opportunity
+1483137,14999,Program Complete,Carreer Development,Essentials,5/28/2022,7/21/2022,11/5/2022,Services Complete
+1483202,15322,Program Complete,Redeployment,Professional,5/29/2022,6/10/2022,10/21/2022,Services Complete
+1483465,15397,Program Complete,Outplacement,Professional,6/1/2022,7/26/2022,11/25/2022,found Opportunity
+1483599,14793,Program Complete,Welfare to work,Professional,6/3/2022,7/4/2022,10/18/2022,Services Complete
+1484010,14932,Program Complete,Redeployment,Professional,6/4/2022,6/11/2022,11/23/2022,found Opportunity
+1484514,15322,Program Complete,Redeployment,Premier,6/5/2022,7/16/2022,12/22/2022,found Opportunity
+1484721,14593,Program Complete,Carreer Development,Professional,6/6/2022,7/26/2022,12/2/2022,Services Complete
+1485125,14593,Program Complete,Outplacement,Professional,6/7/2022,6/20/2022,12/8/2022,found Opportunity
+1485130,14891,Cancelled,Welfare to work,Professional,6/9/2022,,,Ineligible
+1485253,15055,Program Complete,Carreer Development,Professional,6/10/2022,7/17/2022,10/16/2022,found Opportunity
+1485545,14999,Program Complete,Carreer Development,Blended Redeployment Premier,6/10/2022,7/5/2022,11/13/2022,found Opportunity
+1485697,14624,Cancelled,Carreer Development,Professional,6/15/2022,,,Ineligible
+1485859,15397,Program Complete,Carreer Development,Professional,6/16/2022,7/25/2022,11/2/2022,Services Complete
+1486252,14925,Program Complete,Redeployment,Professional,6/18/2022,7/22/2022,11/1/2022,Services Complete
+1486351,14932,Program Complete,Welfare to work,Professional,6/20/2022,6/28/2022,10/31/2022,found Opportunity
+1487330,15176,Program Complete,Outplacement,Professional,6/23/2022,8/17/2022,12/12/2022,found Opportunity
+1487902,15450,Program Complete,Welfare to work,Professional,6/24/2022,7/16/2022,11/14/2022,Services Complete
+1488130,15337,Program Complete,Redeployment,Professional,6/24/2022,6/29/2022,12/4/2022,Services Complete
+1488179,15052,Program Complete,Carreer Development,Professional,6/25/2022,8/2/2022,1/9/2023,found Opportunity
+1488186,15254,Program Complete,Carreer Development,Premier,6/25/2022,8/10/2022,2/6/2023,found Opportunity
+1488586,14688,Program Complete,Carreer Development,Professional,6/26/2022,7/7/2022,11/22/2022,found Opportunity
+1489116,14932,Program Complete,Outplacement,Essentials Plus,6/26/2022,8/8/2022,11/11/2022,found Opportunity
+1489136,15107,Program Complete,Outplacement,Essentials,6/26/2022,7/14/2022,10/16/2022,found Opportunity
+1489311,15324,Program Complete,Welfare to work,Professional,6/27/2022,7/10/2022,11/12/2022,Services Complete
+1489333,14932,Program Complete,Carreer Development,Professional,6/30/2022,8/27/2022,2/15/2023,found Opportunity
+1489463,15337,Program Complete,Redeployment,Professional,7/2/2022,8/18/2022,12/23/2022,found Opportunity
+1489843,14793,Program Complete,Welfare to work,Essentials,7/2/2022,7/15/2022,11/21/2022,Services Complete
+1490239,15453,Program Complete,Outplacement,Professional,7/4/2022,8/20/2022,11/28/2022,found Opportunity
+1490289,14580,Program Complete,Welfare to work,Professional,7/4/2022,7/13/2022,10/31/2022,found Opportunity
+1490377,14925,Program Complete,Carreer Development,Professional,7/4/2022,8/19/2022,11/30/2022,found Opportunity
+1490488,14688,Program Complete,Outplacement,Blended Redeployment Professional,7/5/2022,8/19/2022,12/11/2022,Services Complete
+1491423,14923,Program Complete,Carreer Development,Professional,7/5/2022,8/2/2022,12/8/2022,found Opportunity
+1491511,15453,Program Complete,Outplacement,Premier,7/7/2022,8/13/2022,11/22/2022,found Opportunity
+1491669,14688,Program Complete,Outplacement,Professional,7/13/2022,7/17/2022,11/30/2022,found Opportunity
+1492112,14688,Cancelled,Outplacement,Professional,7/18/2022,,,Ineligible
+1493185,15337,Cancelled,Welfare to work,Professional,7/19/2022,,,Ineligible
+1493523,14756,Program Complete,Outplacement,Essentials,7/19/2022,7/28/2022,11/7/2022,Services Complete
+1493633,14999,Program Complete,Carreer Development,Professional,7/19/2022,8/4/2022,1/19/2023,Services Complete
+1494432,15052,Program Complete,Welfare to work,Professional,7/20/2022,8/31/2022,12/3/2022,Services Complete
+1494670,15322,Program Complete,Welfare to work,Professional,7/21/2022,8/7/2022,11/13/2022,Services Complete
+1494954,15060,Program Complete,Carreer Development,Professional,7/21/2022,8/2/2022,11/25/2022,found Opportunity
+1495190,14793,Program Complete,Carreer Development,Professional,7/22/2022,9/15/2022,12/25/2022,found Opportunity
+1495298,15254,Program Complete,Welfare to work,Professional,7/23/2022,8/12/2022,11/15/2022,found Opportunity
+1495836,15337,Program Complete,Welfare to work,Professional,7/24/2022,8/7/2022,12/20/2022,found Opportunity
+1496025,15052,Program Complete,Outplacement,Essentials Plus,7/26/2022,8/13/2022,1/18/2023,Services Complete
+1496248,15397,Program Complete,Redeployment,Professional,7/28/2022,8/28/2022,2/9/2023,found Opportunity
+1496592,15055,Program Complete,Redeployment,Professional,7/28/2022,9/26/2022,1/16/2023,found Opportunity
+1498023,15052,Program Complete,Outplacement,Professional,8/1/2022,9/28/2022,2/27/2023,found Opportunity
+1501003,15322,Active,Welfare to work,Professional,8/14/2022,9/18/2022,,
+1498684,15337,Program Complete,Redeployment,Professional,8/5/2022,9/15/2022,2/4/2023,found Opportunity
+1498815,15440,Program Complete,Carreer Development,Professional,8/7/2022,9/14/2022,2/4/2023,found Opportunity
+1503408,15133,Active,Carreer Development,Professional,9/1/2022,9/19/2022,,
+1499796,15176,Program Complete,Welfare to work,Blended Redeployment Professional,8/10/2022,9/25/2022,1/11/2023,found Opportunity
+1499814,14891,Program Complete,Welfare to work,Professional,8/11/2022,10/8/2022,2/23/2023,found Opportunity
+1499824,14624,Program Complete,Carreer Development,Professional,8/13/2022,9/3/2022,2/17/2023,found Opportunity
+1499090,14999,Active,Carreer Development,Professional,8/10/2022,9/22/2022,,
+1501029,14932,Cancelled,Outplacement,Professional,8/17/2022,,,Ineligible
+1501370,15044,Program Complete,Carreer Development,Professional,8/17/2022,9/5/2022,1/2/2023,found Opportunity
+1498618,15055,Active,Redeployment,Professional,8/2/2022,9/30/2022,,
+1501584,15453,Program Complete,Redeployment,Professional,8/20/2022,9/15/2022,2/14/2023,Services Complete
+1501724,15133,Program Complete,Outplacement,Professional,8/25/2022,9/2/2022,1/31/2023,Services Complete
+1501424,14925,Active,Outplacement,Professional,8/19/2022,10/11/2022,,
+1502303,14882,Program Complete,Outplacement,Professional,8/27/2022,9/6/2022,2/13/2023,found Opportunity
+1502309,15324,Program Complete,Outplacement,Blended Redeployment Premier,8/28/2022,9/12/2022,2/19/2023,Services Complete
+1502402,14593,Program Complete,Redeployment,Professional,8/28/2022,10/1/2022,2/1/2023,Services Complete
+1505363,15055,Active,Outplacement,Professional,9/28/2022,10/12/2022,,
+1502507,15060,Program Complete,Welfare to work,Professional,8/31/2022,10/4/2022,1/23/2023,Services Complete
+1502576,15254,Program Complete,Welfare to work,Professional,8/31/2022,9/9/2022,2/12/2023,found Opportunity
+1502294,15324,Active,Outplacement,Professional,8/25/2022,10/14/2022,,
+1503530,14624,Program Complete,Redeployment,Professional,9/2/2022,9/16/2022,1/6/2023,Services Complete
+1507402,15052,Active,Redeployment,Professional,10/3/2022,10/22/2022,,
+1503681,15440,Program Complete,Redeployment,Professional,9/3/2022,10/23/2022,2/7/2023,found Opportunity
+1504028,14624,Program Complete,Redeployment,Essentials Plus,9/7/2022,9/16/2022,2/11/2023,Services Complete
+1504103,15397,Cancelled,Redeployment,Premier,9/7/2022,,,Ineligible
+1504364,15176,Opt Out,Carreer Development,Professional,9/7/2022,,,Opt-Out Of Service
+1504520,15324,Program Complete,Carreer Development,Professional,9/9/2022,10/22/2022,2/10/2023,Services Complete
+1504757,15450,Program Complete,Redeployment,Professional,9/10/2022,9/14/2022,1/17/2023,Services Complete
+1508827,14891,Active,Welfare to work,Professional,10/9/2022,10/22/2022,,
+1504947,15176,Cancelled,Welfare to work,Professional,9/16/2022,,,Ineligible
+1504967,14923,Cancelled,Outplacement,Professional,9/19/2022,,,Ineligible
+1505317,14719,Active,Outplacement,Essentials,9/27/2022,10/24/2022,,
+1502469,14593,Active,Welfare to work,Professional,8/31/2022,10/27/2022,,
+1505207,14719,Program Complete,Carreer Development,Professional,9/26/2022,11/1/2022,2/11/2023,Services Complete
+1505010,15060,Active,Welfare to work,Professional,9/23/2022,10/28/2022,,
+1504919,15253,Active,Welfare to work,Professional,9/10/2022,10/31/2022,,
+1505969,14882,Program Complete,Welfare to work,Essentials Plus,9/28/2022,11/14/2022,2/12/2023,found Opportunity
+1506543,14925,Program Complete,Welfare to work,Professional,9/29/2022,10/6/2022,2/7/2023,found Opportunity
+1503535,14593,Active,Outplacement,Professional,9/3/2022,11/1/2022,,
+1506784,15050,Program Complete,Welfare to work,Professional,9/30/2022,10/16/2022,1/28/2023,found Opportunity
+1507114,15254,Program Complete,Welfare to work,Professional,9/30/2022,10/5/2022,2/8/2023,found Opportunity
+1507389,14688,Program Complete,Outplacement,Professional,10/2/2022,10/26/2022,2/1/2023,found Opportunity
+1514080,14923,Active,Outplacement,Essentials Plus,10/28/2022,11/2/2022,,
+1507631,15397,Opt Out,Outplacement,Essentials Plus,10/3/2022,,,Opt-Out Of Service
+1508010,15050,Program Complete,Outplacement,Professional,10/4/2022,11/9/2022,2/16/2023,Services Complete
+1509049,14580,Active,Redeployment,Professional,10/11/2022,11/3/2022,,
+1508311,15107,Active,Carreer Development,Essentials,10/8/2022,11/8/2022,,
+1509915,15440,Active,Carreer Development,Professional,10/15/2022,11/10/2022,,
+1515482,14719,Active,Welfare to work,Professional,10/29/2022,11/10/2022,,
+1508134,15322,Active,Welfare to work,Essentials,10/6/2022,11/11/2022,,
+1509443,15253,Active,Outplacement,Professional,10/13/2022,11/12/2022,,
+1505204,15440,Active,Welfare to work,Professional,9/24/2022,11/12/2022,,
+1513976,15254,Active,Welfare to work,Professional,10/28/2022,11/15/2022,,
+1511050,14923,Program Complete,Welfare to work,Professional,10/17/2022,11/2/2022,2/13/2023,found Opportunity
+1511763,14925,Active,Redeployment,Professional,10/26/2022,11/19/2022,,
+1511549,14688,Program Complete,Outplacement,Professional,10/24/2022,11/4/2022,2/25/2023,found Opportunity
+1506648,14719,Active,Carreer Development,Professional,9/29/2022,11/19/2022,,
+1515925,15133,Active,Outplacement,Premier,11/2/2022,11/20/2022,,
+1519689,14925,Active,Outplacement,Professional,11/10/2022,11/21/2022,,
+1518353,14891,Active,Carreer Development,Professional,11/7/2022,11/23/2022,,
+1522788,14882,Active,Carreer Development,Professional,11/19/2022,11/28/2022,,
+1508246,14925,Active,Welfare to work,Professional,10/8/2022,11/28/2022,,
+1511578,15044,Active,Carreer Development,Professional,10/25/2022,11/29/2022,,
+1518152,15176,Active,Carreer Development,Essentials,11/4/2022,11/29/2022,,
+1518762,15440,Active,Redeployment,Professional,11/8/2022,11/30/2022,,
+1520909,15133,Active,Redeployment,Professional,11/14/2022,12/2/2022,,
+1510212,14719,Active,Redeployment,Professional,10/17/2022,12/5/2022,,
+1516496,15060,Program Complete,Carreer Development,Professional,11/3/2022,11/6/2022,2/10/2023,Services Complete
+1523512,14580,Active,Outplacement,Professional,11/23/2022,12/6/2022,,
+1522046,15107,Active,Outplacement,Professional,11/19/2022,12/9/2022,,
+1523227,14923,Active,Redeployment,Professional,11/22/2022,12/10/2022,,
+1519057,15176,Active,Outplacement,Essentials,11/10/2022,12/13/2022,,
+1527403,15254,Active,Redeployment,Professional,12/5/2022,12/15/2022,,
+1514060,14925,Active,Redeployment,Professional,10/28/2022,12/15/2022,,
+1524518,14580,Active,Outplacement,Essentials,12/2/2022,12/16/2022,,
+1511183,15322,Active,Outplacement,Professional,10/19/2022,12/16/2022,,
+1515721,14925,Active,Welfare to work,Professional,10/29/2022,12/17/2022,,
+1523870,14580,Active,Redeployment,Professional,11/25/2022,12/17/2022,,
+1524417,14580,Active,Outplacement,Professional,11/29/2022,12/18/2022,,
+1528394,15453,Active,Redeployment,Professional,12/6/2022,12/18/2022,,
+1522993,15453,Active,Carreer Development,Professional,11/22/2022,12/22/2022,,
+1512392,15453,Active,Welfare to work,Essentials,10/26/2022,12/23/2022,,
+1513935,15450,Active,Outplacement,Professional,10/28/2022,12/24/2022,,
+1518027,15044,Active,Redeployment,Essentials,11/4/2022,12/25/2022,,
+1528148,14793,Active,Welfare to work,Professional,12/6/2022,12/27/2022,,
+1515890,15253,Active,Outplacement,Professional,10/31/2022,12/28/2022,,
+1517223,15453,Active,Welfare to work,Professional,11/3/2022,12/29/2022,,
+1530538,14923,Active,Outplacement,Essentials Plus,12/17/2022,12/29/2022,,
+1521890,14688,Active,Outplacement,Professional,11/19/2022,12/31/2022,,
+1529668,15107,Active,Carreer Development,Professional,12/13/2022,12/31/2022,,
+1532204,14999,Active,Welfare to work,Professional,12/23/2022,12/31/2022,,
+1532220,14891,Active,Welfare to work,Professional,12/23/2022,12/31/2022,,
+1524106,14580,Active,Welfare to work,Professional,11/27/2022,1/1/2023,,
+1516562,15450,Active,Carreer Development,Professional,11/3/2022,1/2/2023,,
+1521537,15254,Active,Redeployment,Professional,11/18/2022,1/3/2023,,
+1520332,14756,Active,Carreer Development,Professional,11/13/2022,1/4/2023,,
+1521277,15440,Active,Carreer Development,Professional,11/18/2022,1/7/2023,,
+1522191,15050,Active,Welfare to work,Professional,11/19/2022,1/8/2023,,
+1524052,15052,Active,Welfare to work,Professional,11/25/2022,1/9/2023,,
+1532154,14580,Active,Redeployment,Professional,12/21/2022,1/11/2023,,
+1520111,15253,Active,Redeployment,Professional,11/13/2022,1/12/2023,,
+1529796,14793,Active,Outplacement,Professional,12/14/2022,1/12/2023,,
+1531499,14756,Active,Welfare to work,Professional,12/20/2022,1/18/2023,,
+1534148,15133,Active,Carreer Development,Professional,1/5/2023,1/18/2023,,
+1529260,15050,Active,Redeployment,Professional,12/7/2022,1/19/2023,,
+1534929,15176,Active,Welfare to work,Professional,1/6/2023,1/19/2023,,
+1536667,15397,Active,Redeployment,Professional,1/16/2023,1/22/2023,,
+1533390,14793,Active,Outplacement,Professional,1/4/2023,1/22/2023,,
+1529667,15322,Active,Carreer Development,Professional,12/11/2022,1/23/2023,,
+1529826,14719,Active,Welfare to work,Professional,12/14/2022,1/23/2023,,
+1531377,14793,Active,Redeployment,Professional,12/20/2022,1/25/2023,,
+1531651,15253,Active,Welfare to work,Professional,12/21/2022,1/26/2023,,
+1532432,14593,Active,Welfare to work,Professional,12/25/2022,1/26/2023,,
+1538571,15324,Active,Carreer Development,Professional,1/23/2023,1/26/2023,,
+1533478,15337,Active,Carreer Development,Premier,1/5/2023,1/27/2023,,
+1532884,14593,Active,Welfare to work,Professional,1/2/2023,1/28/2023,,
+1530647,15050,Active,Outplacement,Professional,12/18/2022,1/30/2023,,
+1532516,14932,Active,Redeployment,Professional,12/26/2022,1/31/2023,,
+1531104,15044,Active,Redeployment,Professional,12/20/2022,2/1/2023,,
+1533204,15044,Active,Outplacement,Professional,1/3/2023,2/2/2023,,
+1536317,15055,Active,Welfare to work,Professional,1/15/2023,2/2/2023,,
+1538253,15044,Active,Redeployment,Professional,1/22/2023,2/2/2023,,
+1530187,15397,Active,Carreer Development,Professional,12/15/2022,2/4/2023,,
+1532194,15440,Active,Redeployment,Professional,12/22/2022,2/5/2023,,
+1536342,15337,Active,Welfare to work,Premier,1/15/2023,2/9/2023,,
+1537671,15050,Active,Redeployment,Professional,1/20/2023,2/12/2023,,
+1538306,14882,Active,Welfare to work,Professional,1/23/2023,2/13/2023,,
+1534777,14793,Active,Redeployment,Professional,1/6/2023,2/16/2023,,
+1532876,14932,Active,Redeployment,Essentials,12/30/2022,2/20/2023,,
+1540469,15060,Active,Outplacement,Professional,2/1/2023,2/20/2023,,
+1540806,15253,Active,Outplacement,Professional,2/4/2023,2/21/2023,,
+1544478,15253,Active,Redeployment,Professional,2/15/2023,2/22/2023,,
+1539819,15253,Active,Outplacement,Professional,1/30/2023,2/22/2023,,
+1537733,14891,Active,Outplacement,Professional,1/21/2023,2/24/2023,,
+1532957,15440,Active,Outplacement,Professional,1/3/2023,2/26/2023,,
+1541955,15450,Active,Redeployment,Blended Redeployment Professional,2/13/2023,2/28/2023,,
+1539757,15060,Active,Welfare to work,Professional,1/29/2023,3/3/2023,,
+1539162,15324,Active,Outplacement,Professional,1/27/2023,3/4/2023,,
+1538677,14688,Active,Carreer Development,Professional,1/26/2023,3/4/2023,,
+1541379,15055,Active,Redeployment,Professional,2/5/2023,3/6/2023,,
+1537366,14719,Active,Redeployment,Professional,1/17/2023,3/6/2023,,
+1536159,14756,Active,Redeployment,Professional,1/12/2023,3/7/2023,,
+1538592,14624,Active,Carreer Development,Professional,1/24/2023,3/8/2023,,
+1540747,14923,Active,Carreer Development,Professional,2/1/2023,3/8/2023,,
+1536174,15052,Active,Carreer Development,Professional,1/14/2023,3/8/2023,,
+1541389,15440,Active,Redeployment,Professional,2/10/2023,,,
+1541640,15453,Active,Carreer Development,Essentials,2/13/2023,,,
+1542521,15254,Active,Redeployment,Professional,2/13/2023,,,
+1546427,15060,Active,Outplacement,Professional,2/28/2023,,,
+1540805,15324,Eligible,Outplacement,Essentials Plus,2/3/2023,,,
+1541623,15324,Eligible,Carreer Development,Professional,2/12/2023,,,
+1543076,14756,Eligible,Outplacement,Essentials Plus,2/14/2023,,,
+1543930,14882,Eligible,Outplacement,Professional,2/15/2023,,,
+1544908,15397,Eligible,Outplacement,Professional,2/16/2023,,,
+1545050,14624,Eligible,Redeployment,Professional,2/17/2023,,,
+1545404,14932,Eligible,Outplacement,Professional,2/18/2023,,,
+1545564,15176,Eligible,Welfare to work,Professional,2/20/2023,,,
+1545647,15133,Eligible,Redeployment,Professional,2/21/2023,,,
+1545900,15322,Eligible,Welfare to work,Professional,2/25/2023,,,
